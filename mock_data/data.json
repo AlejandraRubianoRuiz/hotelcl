@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "andreamejia",
+            "password": "andre123",
+            "phone": "3187073256",
+            "cedula": 123456789,
+            "address": {
+                "hood": "El Recreo",
+                "city": "Cartagena",
+                "country": "Colombia"
+            },
+            "role": "admin",
+            "salary": 0,
+            "start-date": {
+                "day": "12",
+                "month": "Marzo",
+                "year": "2021"
+            },
+            "end-date": {
+                "day": null,
+                "month": null,
+                "year": null
+            },
+            "last-online": null
+        },
+        {
+            "id": 2,
+            "username": "amanjarres",
+            "password": "angelica123",
+            "phone": "3044421642",
+            "cedula": 1018447611,
+            "address": {
+                "hood": "Pepe Sierra #15b",
+                "city": "Bogota D.C.",
+                "country": "Colombia"
+            },
+            "role": "admin",
+            "salary": 0,
+            "start-date": {
+                "day": "01",
+                "month": "Octubre",
+                "year": "2022"
+            },
+            "end-date": {
+                "day": null,
+                "month": null,
+                "year": null
+            },
+            "last-online": null
+        }
+    ]
+}
